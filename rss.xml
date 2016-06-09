@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Insight Advantage]]></title>
+        <description><![CDATA[Insight Advantage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 15:56:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An independent research consultancy that focuses on uncovering the key insights that will drive business performance]]></title>
+            <description><![CDATA[<article><h1>An independent research consultancy that focuses on uncovering the key insights that will drive business performance</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed0fe146-3817-4a7d-b1f9-d2d9a0af8de2.png"></article>]]></description>
+            <link>undefinedan-independent-research-consultancy-that-focuses-on-uncoveri/index.html</link>
+            <guid isPermaLink="false">43e92787-4961-4dc3-80b3-191f22adb493</guid>
+            <pubDate>Thu, 09 Jun 2016 15:56:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
