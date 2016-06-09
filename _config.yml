@@ -1,0 +1,28 @@
+name: Insight Advantage
+favicon: null
+layout_spectrum: 0.14019252476282418
+typography_spectrum: 0.5924999094568193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7915576589293778
+  lightness: 0.8037727968767285
+  saturation: 0.22642847546376288
+  rhythmicContrast: 0.6669667451642454
+purpose: []
